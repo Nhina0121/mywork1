@@ -1,0 +1,18 @@
+.space {
+  padding-bottom: 50px; }
+
+.footer-bg-blu {
+  background-image: url("../theme/images/footer-bg2.jpg"); }
+
+.black {
+  color: #232323;
+  padding: 25px 0; }
+
+.gray {
+  background-image: url("../theme/images/grayy.jpg"); }
+
+.padding-rem-lr-no-rg {
+  padding-left: 2rem;
+  padding-right: 1rem; }
+
+/*# sourceMappingURL=custom.css.map */
